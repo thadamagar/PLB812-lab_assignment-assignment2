@@ -1,0 +1,6 @@
+method used to download and convert the file
+1. fastqc was installed using conda install command.
+2. Conda environment plb812 was activated using conda activate plb812 command.
+3. A shell script was created (run_fastqc.sh) using cat <- run_fastqc.sh >> EOF
+4. then shell script was submitted to queue system with sbatch command 
+5. I got my converted .html files in about two hours
